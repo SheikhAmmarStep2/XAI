@@ -1,0 +1,8 @@
+[01-Nov-2022 12:48:41 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 25
+[01-Nov-2022 13:10:31 America/New_York] PHP Notice:  Undefined index: btn_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 13
+[01-Nov-2022 13:11:23 America/New_York] PHP Notice:  Undefined index: btn_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 13
+[01-Nov-2022 13:13:03 America/New_York] PHP Notice:  Undefined index: btn_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 13
+[01-Nov-2022 13:13:25 America/New_York] PHP Notice:  Undefined variable: from_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 22
+[01-Nov-2022 13:14:05 America/New_York] PHP Notice:  Undefined variable: from_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 22
+[01-Nov-2022 13:23:16 America/New_York] PHP Notice:  Undefined variable: btn_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 2
+[01-Nov-2022 13:24:55 America/New_York] PHP Notice:  Undefined variable: btn_email in /home/stepdovo/dev.step2itsol.com/xai_new/email_ctlr.php on line 2
